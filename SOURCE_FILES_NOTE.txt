@@ -1,1 +1,0 @@
-Los archivos originales editor.tsx y processor.wasm.ts se entregaron en la conversación y se usaron como referencia. No se duplican aquí automáticamente; el proyecto nativo y params.json están incluidos.
